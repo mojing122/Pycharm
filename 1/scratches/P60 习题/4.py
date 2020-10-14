@@ -5,6 +5,7 @@ for year in range(2000,3000):
                 print(year,"是闰年")
             else:
                 print(year,"不是闰年")
+                #同步
         else:
             print(year,"是闰年")
     else:
